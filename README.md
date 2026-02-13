@@ -1,79 +1,65 @@
 # Hi there, I'm Sourabh Raikwar! 
 
-
-
 ## 🚀 Java Full Stack Developer
 
-I am a passionate **Java Full Stack Developer** with hands-on experience in building scalable, secure, and maintainable web applications. My expertise spans across **Java, Spring Boot, React, and Python**, with a strong focus on backend systems, REST APIs, and modern frontend development. I am continuously learning and adapting to new technologies to solve real-world problems.
+I build scalable, secure, and maintainable web applications. My expertise spans **Java, Spring Boot, React, and Python**, with a focus on modern backend systems and intuitive frontend experiences.
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Java, JavaScript, Python |
-| **Backend** | Spring Boot, REST APIs, JPA, Hibernate |
-| **Frontend** | React.js, Redux, Tailwind CSS, Bootstrap, Axios |
-| **Databases** | MySQL, MongoDB |
-| **Tools & DevOps** | Git, GitHub, Postman, JMeter, Docker, AWS (Basic) |
-
----
-
-## 💼 Professional Experience
-
-### **Robotics & Artificial Intelligence Intern** | Pushpako2
-*Jan 2026 – Present*
-- Working on AI-based computer vision models using Meta Segment Anything Model (SAM).
-- Developing robotics perception pipelines using Python and deep learning.
-- Optimizing models for segmentation accuracy and performance.
-
-### **Full Stack Developer Intern** | Netligent Technology Pvt. Ltd.
-*May 2025 – Aug 2025*
-- Contributed to an enterprise-grade HRMS platform using React, Spring Boot, and MySQL.
-- Implemented REST APIs, authentication flows, and frontend components.
-- Collaborated on debugging and code maintenance.
-
-### **Web Development Intern** | CodeSoft
-*Sep 2024 – Oct 2024*
-- Developed responsive React.js UI components.
-- Improved user experience and cross-browser compatibility.
+| Core | Language | Frameworks | Tools |
+| :--- | :--- | :--- | :--- |
+| **Backend** | Java, Python | Spring Boot, Hibernate, JPA | Postman, JMeter |
+| **Frontend** | JavaScript | React.js, Redux, Tailwind | Vite, Axios |
+| **Data** | SQL, NoSQL | MySQL, MongoDB | Docker, AWS |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🚗 On-Demand Car Washing System
-*Java Full Stack*
-- **Stack:** Spring Boot, React.js, MySQL
-- Role-based application with Customer and Admin modules.
-- Secure authentication, booking workflows, and analytical dashboards.
+Here are some of the key projects I've built, ranging from AI tools to full-stack platforms.
 
-### 🏥 Hospitality Management System
-*Java Backend*
-- **Stack:** Spring Boot, MySQL
-- Backend-driven appointment scheduling and service management.
-- CRUD APIs with robust validation and exception handling.
+### 🤖 AI & Machine Learning
 
-### 🤖 AI Chatbot & Weather App
-*React Frontend*
-- **Stack:** React.js, Redux, Axios
-- Integrated third-party AI and weather APIs for real-time data.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AI Career Assistant](https://github.com/ux01xourabh07/ai-career-assistant)** | 🚀 Intelligent career platform featuring Resume Optimizer, Cover Letter Generator, and Interview Prep. Powered by OpenRouter & SambaNova. | `React` `Node.js` `OpenRouter` `SambaNova` |
+| **[Shipra AI Assistant](https://github.com/SAGE-Rebirth/gemini-voice-assistant)** | 🎙️ Voice-first CLI assistant with "Jarvis-like" capabilities. Features bilingual support (English/Hinglish) and Google Gemini intelligence. | `Python` `Gemini 2.5` `SpeechRec` `Edge-TTS` |
+| **[Drone Video Segmentation](https://github.com/ux01xourabh07/drone-video-segmentation-sam)** | 🚁 Real-time building segmentation tool for drone footage using Meta's Segment Anything Model (SAM) and geometric filtering. | `Python` `PyQt6` `SAM` `OpenCV` |
+
+### 💻 Full Stack & Web Applications
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Student Rental Map](https://github.com/ux01xourabh07/student-rental-map)** | 🗺️ Map-based rental discovery platform for students. Features geolocation, college-based search, and interactive property markers. | `React` `Spring Boot` `Leaflet` `MySQL` |
+| **[Weather App](https://github.com/ux01xourabh07/weather-app)** | 🌤️ A sleek, glassmorphism-styled weather dashboard providing real-time data and 5-day forecasts for cities worldwide. | `React 19` `OpenWeatherMap` `CSS3` |
+| **[Dwarka NGO Website](https://github.com/ux01xourabh07/dwarka-ngo)** | 🤝 Comprehensive website for a Women & Child Care Society. Features donation portals, event galleries, and impact reporting. | `Django 5` `SQLite` `Tailwind` |
 
 ---
 
-## 🎓 Education
+## 💼 Professional Experience
 
-- **Bachelor of Computer Applications (BCA)** | M.K. Ponda College of Business & Management (2023 – 2026)
-- **Higher Secondary Education** | MP Board (2022 – 2023)
+**Robotics & AI Intern** @ Pushpako2 *(Jan 2026 – Present)*
+*   Developing AI perception pipelines using SAM and Python.
+
+**Full Stack Intern** @ Netligent Technology *(May 2025 – Aug 2025)*
+*   Built enterprise HRMS modules using React & Spring Boot.
+
+**Web Dev Intern** @ CodeSoft *(Sep 2024 – Oct 2024)*
+*   Created optimized React UI components.
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [sourabhraikwar586@gmail.com](mailto:sourabhraikwar586@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/sourabh-raikwar-233169257](https://www.linkedin.com/in/sourabh-raikwar-233169257)
-- 🐙 **GitHub:** [github.com/ux01xourabh01](https://github.com/ux01xourabh01)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-raikwar-233169257)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhraikwar586@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ux01xourabh01)
+
+</div>
 
 ---
 *“Continuously learning and improving.”*

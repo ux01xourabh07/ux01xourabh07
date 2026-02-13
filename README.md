@@ -24,7 +24,7 @@ Here are some of the key projects I've built, ranging from AI tools to full-stac
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[InsureVoice AI Agent](https://github.com/ux01xourabh07/insurevoice-ai-agent)** | 🎤 AI-powered multilingual insurance voice assistant with real-time conversation capabilities. Supports 7+ Indian languages with policy document management. | `Spring Boot` `React 19` `TypeScript` `Gemini 2.5` |
+| **[InsureVoice AI Agent](https://github.com/ux01xourabh07/insurevoice-ai-agen)** | 🎤 AI-powered multilingual insurance voice assistant with real-time conversation capabilities. Supports 7+ Indian languages with policy document management. | `Spring Boot` `React 19` `TypeScript` `Gemini 2.5` |
 | **[AI Career Assistant](https://github.com/ux01xourabh07/ai-career-assistant)** | 🚀 Intelligent career platform featuring Resume Optimizer, Cover Letter Generator, and Interview Prep. Powered by OpenRouter & SambaNova. | `React` `Node.js` `OpenRouter` `SambaNova` |
 | **[Shipra AI Assistant](https://github.com/SAGE-Rebirth/gemini-voice-assistant)** | 🎙️ Voice-first CLI assistant with "Jarvis-like" capabilities. Features bilingual support (English/Hinglish) and Google Gemini intelligence. | `Python` `Gemini 2.5` `SpeechRec` `Edge-TTS` |
 | **[Drone Video Segmentation](https://github.com/ux01xourabh07/drone-video-segmentation-sam)** | 🚁 Real-time building segmentation tool for drone footage using Meta's Segment Anything Model (SAM) and geometric filtering. | `Python` `PyQt6` `SAM` `OpenCV` |

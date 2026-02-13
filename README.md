@@ -33,6 +33,7 @@ Here are some of the key projects I've built, ranging from AI tools to full-stac
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[On-Demand Car Wash Platform](https://github.com/ux01xourabh07/on-demand-carwash-platform)** | 🚗 Full-stack microservices platform connecting customers with professional washers. Features real-time scheduling, secure payments, and multi-role management (Customer/Washer/Admin). | `Spring Boot` `Spring Cloud` `React 18` `MySQL` `RabbitMQ` `Docker` |
 | **[Time-Off Request Manager](https://github.com/ux01xourabh07/time-off-request-manager)** | 🏢 Enterprise Time-Off Management System with microservices architecture. Features Eureka service registry, API Gateway, and dedicated services for auth, employees, and leave management. | `Spring Boot` `Spring Cloud` `React 19` `Material-UI` `Java 21` |
 | **[Student Rental Map](https://github.com/ux01xourabh07/student-rental-map)** | 🗺️ Map-based rental discovery platform for students. Features geolocation, college-based search, and interactive property markers. | `React` `Spring Boot` `Leaflet` `MySQL` |
 | **[Weather App](https://github.com/ux01xourabh07/weather-app)** | 🌤️ A sleek, glassmorphism-styled weather dashboard providing real-time data and 5-day forecasts for cities worldwide. | `React 19` `OpenWeatherMap` `CSS3` |

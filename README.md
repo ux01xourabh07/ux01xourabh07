@@ -1,4 +1,4 @@
-# Hi there, I'm Sourabh Raikwar! 👋
+# Hi there, I'm Sourabh Raikwar! 
 
 
 
